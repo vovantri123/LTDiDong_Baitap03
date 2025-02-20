@@ -17,11 +17,13 @@
           .Bai2Activity
           .Bai3aActivity
           .Bai3bActivity
-          .Bai4Activity
+          .Bai4ExampleActivity
+          .Bai4BaiTap1aActivity
+          .Bai4BaiTap1bActivity
 
         -->
         <activity
-            android:name=".Bai3aActivity"
+            android:name=".Bai4BaiTap1bActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
