@@ -29,7 +29,7 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="24dp"
@@ -48,7 +48,7 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="24dp"
